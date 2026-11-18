@@ -23,7 +23,7 @@ def inicio():
         )
 
         st.divider()
-        st.markdown("**Integrantes**")
+        st.subheader("Integrantes")
         st.markdown("**Agustín Blás Bonnaluc**")
         st.markdown("**Julieta Medina Fernández**")
         st.markdown("**Mariano Sanchez de Vera Bastone**")
