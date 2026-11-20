@@ -5,6 +5,8 @@ Trabajo Final Integrador de Business Intelligence & Analytics (Universidad de Pa
 Dashboard en Streamlit para analizar participación, trazabilidad, rendimiento y matrícula de tres materias:
 Álgebra, Probabilidad y Estadística, y Algoritmos y Estructuras de Datos.
 
+https://tpi-business-intelligence-analytics-23qqeswxdhaknkmyyftphg.streamlit.app/
+
 ## Estructura
 
 - `data/raw/`: Excel originales del LMS.
